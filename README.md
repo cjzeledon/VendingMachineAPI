@@ -1,4 +1,4 @@
-#Vending Machine API
+# Vending Machine API
 
 For this project, you will create a JSON API for a vending machine. This machine has a list of items for sale with their ids, descriptions, and costs. It also keeps track of all machine transactions with time of transaction.<br>
 
